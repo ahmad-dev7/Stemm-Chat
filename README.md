@@ -44,11 +44,16 @@ lib/
 ✅ User list with profile details  
 ✅ Profile picture display and detailed view
 
+## 📸 Screenshots
+
+| Login Page                            | Users List                            | Chat Page                           | User Profile                              |
+| ------------------------------------- | ------------------------------------- | ----------------------------------- | ----------------------------------------- |
+| ![Login Page](screenshots/login.jpeg) | ![Users List](screenshots/users.jpeg) | ![Chat Page](screenshots/chat.jpeg) | ![Profile Page](screenshots/profile.jpeg) |
+
 ## 📦 APK & Source Code
 
 - **GitHub Repository**: [GitHub](https://github.com/ahmad-dev7/Stemm-Chat)
 - **APK Download**: [APK](https://drive.google.com/file/d/1kfOoFe0HZPGt58n8POroq4ehyi6NYZdr/view?usp=sharing)
-
 
 ## 📝 Assignment Details
 
