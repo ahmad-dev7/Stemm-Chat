@@ -46,8 +46,8 @@ lib/
 
 ## 📦 APK & Source Code
 
-- **GitHub Repository**: [https://github.com/ahmad-dev7/Stemm-Chat]
-- **APK Download**: [https://drive.google.com/file/d/1kfOoFe0HZPGt58n8POroq4ehyi6NYZdr/view?usp=sharing]
+- **GitHub Repository**: GitHub[https://github.com/ahmad-dev7/Stemm-Chat]
+- **APK Download**: APK[https://drive.google.com/file/d/1kfOoFe0HZPGt58n8POroq4ehyi6NYZdr/view?usp=sharing]
 
 ## 📝 Assignment Details
 
