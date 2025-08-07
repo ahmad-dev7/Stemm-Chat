@@ -156,8 +156,8 @@ class AuthController extends GetxController {
             CupertinoDialogAction(
               isDestructiveAction: true,
               onPressed: () async {
-                await auth.signOut();
                 Get.offAll(() => AuthView());
+                await auth.signOut();
               },
               child: Text('Logout'),
             ),
