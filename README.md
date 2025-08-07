@@ -1,16 +1,59 @@
-# stemm_chat
+# Flutter Firebase Chat Application
 
-A new Flutter project.
+A real-time one-to-one chat application built with Flutter and Firebase, developed as an assignment for Flutter Developer role at STEMM One Cloudworks Pvt Ltd.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- **Authentication**: User registration and login with Firebase Auth
+- **Real-time Messaging**: Instant 1-1 chat using Firestore
+- **Multi-media Support**:
+  - Text messages
+  - Image sharing
+  - Document uploads (PDF, DOC, etc.)
+  - Video sharing
+- **User Management**: Browse all users with profile details
+- **Profile View**: Detailed user profiles with display pictures
 
-A few resources to get you started if this is your first Flutter project:
+## 🏗️ Architecture & Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework**: Flutter
+- **State Management**: GetX
+- **Architecture Pattern**: MVC (Model-View-Controller)
+- **Backend**: Firebase
+  - Firebase Auth (Authentication)
+  - Firestore (Real-time database)
+  - Firebase Storage (File uploads)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Project Structure
+
+```
+lib/
+├── controllers/     # GetX controllers for state management
+├── models/          # Data models (User, Message)
+├── views/           # UI screens
+├── components/      # Reusable widgets
+└── theme/           # App theme data
+```
+
+## 🎯 Assignment Requirements Completion
+
+✅ Real-time chat application  
+✅ Support for messages, documents, and videos  
+✅ User authentication with navigation  
+✅ 1-1 chat functionality  
+✅ User list with profile details  
+✅ Profile picture display and detailed view
+
+## 📦 APK & Source Code
+
+- **GitHub Repository**: [Add your GitHub link]
+- **APK Download**: [Add your APK link]
+
+## 📝 Assignment Details
+
+**Company**: STEMM One Cloudworks Pvt Ltd  
+**Role**: Flutter Developer  
+**Submission**: August 7th, 2025
+
+**Developer**: Ahmad Ali  
+**Email**: aali.dev7@gmail.com
